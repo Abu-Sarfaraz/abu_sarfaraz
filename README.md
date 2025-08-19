@@ -7,7 +7,7 @@ GitHub: abu_sarfaraz
 🔭 Self taught Programmer with proficiency in MERN stack  
 🌱 I’m currently learning Next.js  
 💬 Ask me about Web Development  
-📫 How to reach me: your-email@example.com
+📫 How to reach me: shohidul.islam01@northsouth.edu
 
 Connect with me:  
 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN) • [Twitter](https://twitter.com/YOUR_TWITTER) • [Portfolio](https://your-portfolio.example)
@@ -89,9 +89,4 @@ Here are a few projects I often showcase (replace with your real project names a
 - Summer-camp-school-client-side
 - Toys-market-place-client
 
-(Use the pinned project cards above to make these click-able and visually nice.)
-
----
-
 Thanks for stopping by — feel free to explore my pinned projects and reach out if you'd like to collaborate! ✨
-```
